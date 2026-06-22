@@ -1,3 +1,3 @@
-# java_helloworld
+# java_Demo
 
 Guide using "git"
